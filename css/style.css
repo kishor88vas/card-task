@@ -1,0 +1,48 @@
+*{
+	margin: 0;
+	padding: 0;
+	
+}
+
+.main_container{
+	
+	margin: 0 auto;
+	height: 100vh;
+	padding: 50px;
+	
+}
+
+.card_container{
+	margin: 0 auto;
+	width: 300px;
+	height: auto;
+	border: none; 
+}
+
+.content{
+	padding: 20px;
+	background-color: grey;
+	text-align: center;
+	color: white;
+}
+
+.paragraph{
+	color: lightgray;
+	text-decoration: line-through;
+}
+
+.first_line{
+	display: flex;
+	justify-content: center;
+	
+}
+button{
+	margin-bottom: 20px;
+	margin-top: 20px;
+	padding: 8px 20px;
+	border-radius: 5px;
+	border: 1px solid white;
+	color: white;
+	background-color: gray;
+	font-weight: bold;
+}
